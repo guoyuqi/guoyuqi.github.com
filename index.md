@@ -11,6 +11,7 @@ layout: default
         <a href="http://weibo.com/guoyuqi0554" target="_blank"><img src="http://www.weibo.com/favicon.ico" alt="" width="25"/></a>
         <a href="https://www.zhihu.com/people/justmilan" target="_blank"><img src="https://www.zhihu.com/favicon.ico" alt="" width="22"/></a>
         <a href="https://www.douban.com/people/justmilan/" target="_blank"><img src="http://www.douban.com/favicon.ico" alt="" width="22"/></a>
+        <a href="http://blog.csdn.net/guoyuqi0554" target="_blank"><img src="http://c.csdnimg.cn/public/favicon.ico" alt="" width="22"/></a>
         <!-- <a href="http://instagram.com/beiyuu/" target="_blank"><img src="http://d36xtkk24g8jdx.cloudfront.net/bluebar/00c6602/images/ico/favicon.ico" alt="" width="22"/></a> -->
       </div>
       <div id="particles-js"></div>
